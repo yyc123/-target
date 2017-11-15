@@ -22,7 +22,7 @@
     UILabel *label = [[UILabel alloc]initWithFrame:CGRectMake(100, 80, 130, 40)];
     label.backgroundColor = [UIColor orangeColor];
     label.textColor = [UIColor blackColor];
-    label.text = @"我是岳永超啊";
+    label.text = @"我是yyc啊";
     label.adjustsFontSizeToFitWidth = YES;
     [self.view addSubview:label];
 
